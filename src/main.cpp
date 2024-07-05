@@ -5,7 +5,7 @@
 #include <arduinoFFT.h> 
 #include <TimerOne.h> 
 
-#define THINGSPEAK_API_KEY "8LUTHG19097RVDRH"
+#define THINGSPEAK_API_KEY "THINGSPEAK_API_KEY"
 
 #define PIN_TX 7
 #define PIN_RX 10
